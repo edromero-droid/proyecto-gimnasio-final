@@ -1,0 +1,9 @@
+com\gimnasio\equipamiento\controller\EquipamientoController.class
+com\gimnasio\equipamiento\service\EquipamientoService.class
+com\gimnasio\equipamiento\MsEquipamientoApplication.class
+com\gimnasio\equipamiento\entity\Equipamiento.class
+com\gimnasio\equipamiento\dto\EquipamientoDTO$EquipamientoDTOBuilder.class
+com\gimnasio\equipamiento\controller\GlobalExceptionHandler.class
+com\gimnasio\equipamiento\dto\EquipamientoDTO.class
+com\gimnasio\equipamiento\AppConfig.class
+com\gimnasio\equipamiento\repository\EquipamientoRepository.class

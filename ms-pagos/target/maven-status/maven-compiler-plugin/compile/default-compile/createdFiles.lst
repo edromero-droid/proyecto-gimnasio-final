@@ -1,0 +1,9 @@
+com\gimnasio\pagos\repository\PagoRepository.class
+com\gimnasio\pagos\entity\Pago.class
+com\gimnasio\pagos\MsPagosApplication.class
+com\gimnasio\pagos\AppConfig.class
+com\gimnasio\pagos\dto\PagoDTO.class
+com\gimnasio\pagos\dto\PagoDTO$PagoDTOBuilder.class
+com\gimnasio\pagos\controller\GlobalExceptionHandler.class
+com\gimnasio\pagos\service\PagoService.class
+com\gimnasio\pagos\controller\PagoController.class

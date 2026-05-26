@@ -1,0 +1,9 @@
+com\gimnasio\asistencia\AppConfig.class
+com\gimnasio\asistencia\entity\RegistroAcceso.class
+com\gimnasio\asistencia\dto\RegistroAccesoDTO$RegistroAccesoDTOBuilder.class
+com\gimnasio\asistencia\controller\GlobalExceptionHandler.class
+com\gimnasio\asistencia\dto\RegistroAccesoDTO.class
+com\gimnasio\asistencia\MsAsistenciaApplication.class
+com\gimnasio\asistencia\controller\AsistenciaController.class
+com\gimnasio\asistencia\repository\RegistroAccesoRepository.class
+com\gimnasio\asistencia\service\AsistenciaService.class

@@ -1,0 +1,9 @@
+com\gimnasio\instructores\entity\Instructor.class
+com\gimnasio\instructores\controller\InstructorController.class
+com\gimnasio\instructores\service\InstructorService.class
+com\gimnasio\instructores\dto\InstructorDTO$InstructorDTOBuilder.class
+com\gimnasio\instructores\dto\InstructorDTO.class
+com\gimnasio\instructores\MsInstructoresApplication.class
+com\gimnasio\instructores\controller\GlobalExceptionHandler.class
+com\gimnasio\instructores\repository\InstructorRepository.class
+com\gimnasio\instructores\AppConfig.class

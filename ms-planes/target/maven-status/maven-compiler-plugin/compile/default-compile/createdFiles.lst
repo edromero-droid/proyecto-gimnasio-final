@@ -1,0 +1,8 @@
+com\gimnasio\planes\AppConfig.class
+com\gimnasio\planes\dto\PlanDTO.class
+com\gimnasio\planes\MsPlanesApplication.class
+com\gimnasio\planes\repository\PlanRepository.class
+com\gimnasio\planes\controller\PlanController.class
+com\gimnasio\planes\controller\GlobalExceptionHandler.class
+com\gimnasio\planes\entity\Plan.class
+com\gimnasio\planes\service\PlanService.class

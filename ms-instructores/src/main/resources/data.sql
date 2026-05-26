@@ -1,0 +1,6 @@
+INSERT INTO instructores (instructor_id, nombre, apellido, email, telefono, fecha_nacimiento, tipo_contrato, fecha_ingreso, especialidades, anos_experiencia, biografia, calificacion_promedio, total_valoraciones, estado, foto_url, created_at) VALUES
+(1, 'Rodrigo', 'Herrera', 'rodrigo.herrera@gimnasio.cl', '+56911111111', '1985-04-10', 'PLANTA', '2020-01-15', 'CrossFit, Funcional, HIIT', 8, 'Certificado CrossFit Level 2.', 4.80, 95, 'ACTIVO', NULL, NOW()),
+(2, 'Marcela', 'Silva', 'marcela.silva@gimnasio.cl', '+56922222222', '1990-09-25', 'PLANTA', '2021-03-01', 'Yoga, Pilates, Meditación', 6, 'Instructora certificada en Hatha Yoga y Pilates mat.', 4.95, 120, 'ACTIVO', NULL, NOW()),
+(3, 'Alejandro', 'Mora', 'alejandro.mora@gimnasio.cl', '+56933333333', '1988-12-03', 'HONORARIOS', '2022-06-01', 'Musculación, Powerlifting', 10, 'Campeón regional de Powerlifting 2018.', 4.70, 80, 'ACTIVO', NULL, NOW()),
+(4, 'Paula', 'Jiménez', 'paula.jimenez@gimnasio.cl', '+56944444444', '1993-06-17', 'PLANTA', '2022-01-10', 'Spinning, Cardio, Zumba', 5, 'Instructora de cycling certificada por Keiser.', 4.85, 110, 'ACTIVO', NULL, NOW()),
+(5, 'Diego', 'Castillo', 'diego.castillo@gimnasio.cl', '+56955555555', '1991-02-28', 'HONORARIOS', '2023-02-15', 'Natación, Aqua Aeróbics', 7, 'Ex nadador competitivo.', 4.60, 55, 'VACACIONES', NULL, NOW());

@@ -1,0 +1,8 @@
+com\gimnasio\socios\service\SocioService.class
+com\gimnasio\socios\MsSociosApplication.class
+com\gimnasio\socios\AppConfig.class
+com\gimnasio\socios\dto\SocioDTO.class
+com\gimnasio\socios\controller\SocioController.class
+com\gimnasio\socios\controller\GlobalExceptionHandler.class
+com\gimnasio\socios\repository\SocioRepository.class
+com\gimnasio\socios\entity\Socio.class

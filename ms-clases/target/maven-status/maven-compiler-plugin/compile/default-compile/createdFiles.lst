@@ -1,0 +1,13 @@
+com\gimnasio\clases\entity\ReservaClase.class
+com\gimnasio\clases\MsClasesApplication.class
+com\gimnasio\clases\dto\SesionClaseDTO.class
+com\gimnasio\clases\entity\SesionClase.class
+com\gimnasio\clases\repository\SesionClaseRepository.class
+com\gimnasio\clases\AppConfig.class
+com\gimnasio\clases\controller\GlobalExceptionHandler.class
+com\gimnasio\clases\controller\ClaseController.class
+com\gimnasio\clases\dto\ReservaClaseDTO$ReservaClaseDTOBuilder.class
+com\gimnasio\clases\repository\ReservaClaseRepository.class
+com\gimnasio\clases\dto\ReservaClaseDTO.class
+com\gimnasio\clases\dto\SesionClaseDTO$SesionClaseDTOBuilder.class
+com\gimnasio\clases\service\ClaseService.class

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-equipamiento" />
+        <module name="ms-clases" />
+        <module name="ms-notificaciones" />
+        <module name="ms-socios" />
+        <module name="ms-asistencia" />
+        <module name="ms-pagos" />
+        <module name="ms-instructores" />
+        <module name="ms-planes" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

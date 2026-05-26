@@ -1,0 +1,9 @@
+com\gimnasio\notificaciones\controller\NotificacionController.class
+com\gimnasio\notificaciones\entity\Notificacion.class
+com\gimnasio\notificaciones\MsNotificacionesApplication.class
+com\gimnasio\notificaciones\AppConfig.class
+com\gimnasio\notificaciones\repository\NotificacionRepository.class
+com\gimnasio\notificaciones\dto\NotificacionDTO$NotificacionDTOBuilder.class
+com\gimnasio\notificaciones\service\NotificacionService.class
+com\gimnasio\notificaciones\dto\NotificacionDTO.class
+com\gimnasio\notificaciones\controller\GlobalExceptionHandler.class
